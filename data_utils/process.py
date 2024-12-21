@@ -9,6 +9,11 @@ import torch
 import torch.nn.functional as F
 import face_alignment
 from face_tracking.util import euler2rot
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--min-v', type=int, default=50)
+opt = parser.parse_args()
 
 
 def extract_audio(path, out_path, sample_rate=16000):
@@ -317,7 +322,8 @@ def extract_flow(base_dir,ori_imgs_dir,mask_dir, flow_dir):
     xys = []
     for y in range(0, h - win_size, win_size):
         for x in range(0, w - win_size, win_size):
-            min_v = int(40)
+            min_v = int(opt.min_v)
+            print(f'Using min_v: {min_v}')
             id_x = -1
             id_y = -1
             for dy in range(0, win_size):

@@ -1,7 +1,5 @@
 FROM nvidia/cuda:12.1.0-devel-ubuntu22.04
 
-ADD . /SyncTalk
-
-WORKDIR /SyncTalk
+ADD venv/ /var/venv/
 
 RUN bash init.sh

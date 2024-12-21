@@ -8,7 +8,7 @@ apt update && apt install -y \
     curl \
     ca-certificates \
     sudo \
-    build-essential \ ffmpeg-python \
+    build-essential \
     ffmpeg \
     libsm6 \
     libxext6 \

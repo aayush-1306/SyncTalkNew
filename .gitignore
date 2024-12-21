@@ -1,6 +1,3 @@
-*.npy
-*.pt
-*.mat
 env/
 __pycache__/
 *.mp4

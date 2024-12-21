@@ -1,6 +1,3 @@
-echo "Updating and Upgrading APT"
-apt update && apt upgrade -y
-
 # Install dependencies
 echo "Installing Dependencies"
 apt update && apt install -y \

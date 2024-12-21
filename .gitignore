@@ -3,3 +3,7 @@
 *.mat
 env/
 __pycache__/
+*.mp4
+*.wav
+venv/
+data/*

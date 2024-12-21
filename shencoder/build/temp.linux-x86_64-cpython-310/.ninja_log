@@ -1,3 +1,5 @@
 # ninja log v5
 5	20896	1734772221482747700	/SyncTalk/shencoder/build/temp.linux-x86_64-cpython-310/SyncTalk/shencoder/src/bindings.o	d54bcf2ed91809f8
 7	47661	1734772248288818800	/SyncTalk/shencoder/build/temp.linux-x86_64-cpython-310/SyncTalk/shencoder/src/shencoder.o	f969a63c8f2b2e6f
+32	18661	1734797712475140200	/SyncTalk/shencoder/build/temp.linux-x86_64-cpython-310/SyncTalk/shencoder/src/bindings.o	d9625e8727f512c4
+33	43845	1734797737812047500	/SyncTalk/shencoder/build/temp.linux-x86_64-cpython-310/SyncTalk/shencoder/src/shencoder.o	2f6d232fdb037d41

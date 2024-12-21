@@ -1,3 +1,5 @@
 # ninja log v5
 4	20864	1734772088537694800	/SyncTalk/freqencoder/build/temp.linux-x86_64-cpython-310/SyncTalk/freqencoder/src/bindings.o	8bf25897e4f64f84
 5	48658	1734772116312662300	/SyncTalk/freqencoder/build/temp.linux-x86_64-cpython-310/SyncTalk/freqencoder/src/freqencoder.o	6ce0b12c6a5cdee1
+39	18589	1734797618763025000	/SyncTalk/freqencoder/build/temp.linux-x86_64-cpython-310/SyncTalk/freqencoder/src/bindings.o	52d471d86dc068da
+41	43580	1734797643875778200	/SyncTalk/freqencoder/build/temp.linux-x86_64-cpython-310/SyncTalk/freqencoder/src/freqencoder.o	a8ded515b2b879ba

@@ -1,3 +1,5 @@
 # ninja log v5
 637	85264	1734772656556577300	/SyncTalk/raymarching/build/temp.linux-x86_64-cpython-310/SyncTalk/raymarching/src/bindings.o	e914514c813733e0
 641	115780	1734772687032933100	/SyncTalk/raymarching/build/temp.linux-x86_64-cpython-310/SyncTalk/raymarching/src/raymarching.o	b38300718c38d77a
+45	20301	1734797973712123000	/SyncTalk/raymarching/build/temp.linux-x86_64-cpython-310/SyncTalk/raymarching/src/bindings.o	b242d8e4954f0b37
+46	45798	1734797999297776200	/SyncTalk/raymarching/build/temp.linux-x86_64-cpython-310/SyncTalk/raymarching/src/raymarching.o	3b3078faf502ea3a

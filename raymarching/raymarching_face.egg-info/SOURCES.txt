@@ -1,0 +1,7 @@
+setup.py
+/SyncTalk/raymarching/src/bindings.cpp
+/SyncTalk/raymarching/src/raymarching.cu
+raymarching_face.egg-info/PKG-INFO
+raymarching_face.egg-info/SOURCES.txt
+raymarching_face.egg-info/dependency_links.txt
+raymarching_face.egg-info/top_level.txt

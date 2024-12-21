@@ -1,0 +1,5 @@
+*.npy
+*.pt
+*.mat
+env/
+__pycache__/

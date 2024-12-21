@@ -11,10 +11,6 @@ import face_alignment
 from face_tracking.util import euler2rot
 import argparse
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--min-v', type=int, default=50)
-opt = parser.parse_args()
-
 
 def extract_audio(path, out_path, sample_rate=16000):
     
@@ -426,6 +422,7 @@ if __name__ == '__main__':
     parser.add_argument('path', type=str, help="path to video file")
     parser.add_argument('--task', type=int, default=-1, help="-1 means all")
     parser.add_argument('--asr', type=str, default='ave', help="ave, hubert or deepspeech")
+    parser.add_argument('--min-v', type=int, default=50)
 
 
     opt = parser.parse_args()

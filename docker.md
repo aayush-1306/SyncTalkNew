@@ -1,3 +1,3 @@
 Docker Command 
 
-docker run -i -t -v DATA_PATH:/data -v MODEL_PATH:/model --gpus all 
+docker run -i -t -v SYNCTALK_PATH:/SyncTalk --gpus all aayush130601/synctalk:v1

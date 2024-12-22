@@ -1,3 +1,5 @@
 # ninja log v5
 6	16672	1734813344948729400	/SyncTalk/raymarching/build/temp.linux-x86_64-3.10/SyncTalk/raymarching/src/bindings.o	dba220258897febc
 7	39461	1734813367804593800	/SyncTalk/raymarching/build/temp.linux-x86_64-3.10/SyncTalk/raymarching/src/raymarching.o	4a9f3070aee0d72d
+135	18824	1734887584769791200	/SyncTalk/raymarching/build/temp.linux-x86_64-3.10/SyncTalk/raymarching/src/bindings.o	dba220258897febc
+137	42143	1734887608049535900	/SyncTalk/raymarching/build/temp.linux-x86_64-3.10/SyncTalk/raymarching/src/raymarching.o	4a9f3070aee0d72d

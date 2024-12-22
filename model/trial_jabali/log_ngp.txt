@@ -1,8 +1,53 @@
-[INFO] Trainer: ngp | 2024-12-21_22-28-26 | cuda | fp16 | model/trial_jabali
+[INFO] Trainer: ngp | 2024-12-22_18-08-41 | cuda | fp16 | model/trial_jabali
 [INFO] #parameters: 768165
 [INFO] Loading latest checkpoint ...
 [WARN] No checkpoint found, model randomly initialized.
 ==> Start Training Epoch 1, lr=0.001000 ...
-loss=0.0203
+loss=0.0204
 ==> Finished Epoch 1.
-==> Start Training Epoch 2, lr=0.000979 ...
+==> Start Training Epoch 2, lr=0.000805 ...
+loss=0.0173
+==> Finished Epoch 2.
+++> Evaluate at epoch 2 ...
+PSNR = 26.903754
+LPIPS (alex) = 0.088204
+LMD (fan) = 3.728798
+++> Evaluate epoch 2 Finished.
+==> Start Training Epoch 3, lr=0.000648 ...
+loss=0.0169
+==> Finished Epoch 3.
+==> Start Training Epoch 4, lr=0.000521 ...
+loss=0.0166
+==> Finished Epoch 4.
+++> Evaluate at epoch 4 ...
+PSNR = 27.200881
+LPIPS (alex) = 0.081366
+LMD (fan) = 3.111158
+++> Evaluate epoch 4 Finished.
+++> Evaluate at epoch 4 ...
+PSNR = 27.732861
+LPIPS (alex) = 0.079689
+LMD (fan) = 3.125100
+++> Evaluate epoch 4 Finished.
+==> Start Test, save results to model/trial_jabali/results
+==> Finished Test.
+[INFO] Trainer: ngp | 2024-12-22_18-27-23 | cuda | fp16 | model/trial_jabali
+[INFO] #parameters: 768165
+[INFO] Loading latest checkpoint ...
+[INFO] Latest checkpoint is model/trial_jabali/checkpoints/ngp_ep0004.pth
+[INFO] loaded model.
+[INFO] load at epoch 4, global step 7520
+[WARN] Failed to load optimizer.
+[INFO] loaded scheduler.
+[INFO] loaded scaler.
+[INFO] Trainer: ngp | 2024-12-22_18-27-39 | cuda | fp16 | model/trial_jabali
+[INFO] #parameters: 768165
+[INFO] Loading latest checkpoint ...
+[INFO] Latest checkpoint is model/trial_jabali/checkpoints/ngp_ep0004.pth
+[INFO] loaded model.
+[INFO] load at epoch 4, global step 7520
+[WARN] Failed to load optimizer.
+[INFO] loaded scheduler.
+[INFO] loaded scaler.
+==> Start Test, save results to model/trial_jabali/results
+==> Finished Test.

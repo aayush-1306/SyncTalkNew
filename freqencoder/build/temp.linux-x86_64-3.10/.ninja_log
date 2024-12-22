@@ -1,3 +1,5 @@
 # ninja log v5
 5	14329	1734813180713896500	/SyncTalk/freqencoder/build/temp.linux-x86_64-3.10/SyncTalk/freqencoder/src/bindings.o	263bf9544068a84f
 7	37272	1734813203405011700	/SyncTalk/freqencoder/build/temp.linux-x86_64-3.10/SyncTalk/freqencoder/src/freqencoder.o	214783de30e1c46e
+121	17111	1734887408107949500	/SyncTalk/freqencoder/build/temp.linux-x86_64-3.10/SyncTalk/freqencoder/src/bindings.o	263bf9544068a84f
+126	38357	1734887429323306200	/SyncTalk/freqencoder/build/temp.linux-x86_64-3.10/SyncTalk/freqencoder/src/freqencoder.o	214783de30e1c46e
